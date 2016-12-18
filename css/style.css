@@ -1,9 +1,19 @@
 @import url('bootstrap.min.css');
 
 #left {
-	
+	background: rgba(0, 0, 0, 0.2);
+	height: 1000px;
 }
 
-#rigth {
-	
+#left:hover {
+	background: rgba(0, 0, 0, 0.1);
+}
+
+#right {
+	background: rgba(0, 0, 0, 0.2);
+	height: 1000px;
+}
+
+#right:hover {
+	background: rgba(0, 0, 0, 0.1);
 }

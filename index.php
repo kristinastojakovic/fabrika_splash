@@ -14,7 +14,7 @@
 	<div class="container-fluid">
 			
 		<div class="row text-center">
-			<div id="left" class="col-xs-6" style="height">
+			<div id="left" class="col-xs-6 vertical-align" style="height">
 				<a href="http://www.fabrika.org.rs/coworking/">Fabrika Coworking</a>
 			</div>
 			<div id="right" class="col-xs-6">
